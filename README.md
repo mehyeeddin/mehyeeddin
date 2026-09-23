@@ -1,6 +1,11 @@
-## Olá Mundo Mehye!
+## Ola visitante !
 
 Meu nome é mehye, estudo IFPR Foz do Iguaçu e gosto de game development,
 progamação competitiva e um pouco de psicologia e psicodinamica da educação!
 
 Estou no primeiro ano do curso técnico de **Desenvolvimento de Sistemas**
+
+Gosto de Steins;Gate, Re:Zero e animes nesse estilo
+
+![TÍTULO-DO-VÍDEO](162513.gif)
+
